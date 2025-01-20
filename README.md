@@ -40,7 +40,7 @@ Route::get('/create-users-table', function () {
    Visit the route `/create-users-table` in your browser or execute it via a tool like Postman to create the `peoples` table in your database.
 
 3. **Follow the LinkedIn Guide:**
-   For more detailed instructions, check the LinkedIn post linked [here](https://www.linkedin.com/feed/update/urn:li:ugcPost:7287050711148720128/).
+   For more detailed instructions, check the LinkedIn post linked [here](https://www.linkedin.com/feed/update/urn:li:ugcPost:7287079777302179840/).
 
 ## Notes
 
