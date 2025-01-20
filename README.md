@@ -40,4 +40,4 @@ Follow the steps described in the LinkedIn post to:
 - The Excel file should follow the column structure defined in the `peoples` table.
 - Make sure to skip the first row of the Excel file if it contains column headers.
 
-For more detailed instructions, check the LinkedIn post linked [here](https://linkedin.com).
+For more detailed instructions, check the LinkedIn post linked [here](https://www.linkedin.com/feed/update/urn:li:ugcPost:7287050711148720128/).
