@@ -1,5 +1,5 @@
 # Import Large Excel Data into Database Table
-##Import 1 million data into a database with Excel in under 10 seconds
+### Import 1 million data into a database with Excel in under 10 seconds
 
 This guide will help you import data from an Excel file into a database table. Follow the steps below to create the required table and import the data as explained in the related LinkedIn post.
 
